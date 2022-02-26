@@ -6,10 +6,9 @@
  
   <ul>
     <li><img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="20"> HTML, CSS, Tailwind, SCSS </li>
-    <li>📱 JavaScript </li>
-    <li>⚛ React</li>
+    <li><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="20"> JavaScript </li>
+    <li><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20"> React</li>
   </ul>  
    
-https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif
-<img src="https://media.giphy.com/media/EWqZuU1dEvc3PfWGy6/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-💻
+
+
