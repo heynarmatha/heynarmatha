@@ -1,4 +1,4 @@
-<h4><img src="https://media.giphy.com/media/EWqZuU1dEvc3PfWGy6/giphy.gif" width="60">Hey there 👋<h4>
+<h4 align-item="center"><img src="https://media.giphy.com/media/EWqZuU1dEvc3PfWGy6/giphy.gif" width="60">Hey there 👋<h4>
 
 <h4>Hi, I'm Narmatha, a Frontend Developer. Love to Build beautiful websites and I love to learn new things and build creative website.<h4>
  
