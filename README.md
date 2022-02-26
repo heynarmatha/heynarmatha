@@ -5,7 +5,7 @@
  <h2>Skills</h2>
  
   <ul>
-    <li><img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="60"> HTML, CSS, Tailwind, SCSS </li>
+    <li><img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="20"> HTML, CSS, Tailwind, SCSS </li>
     <li>📱 JavaScript </li>
     <li>⚛ React</li>
   </ul>  
