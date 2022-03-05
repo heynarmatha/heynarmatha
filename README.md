@@ -2,7 +2,7 @@
  <h3><img src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="60" align='right'>Hi, I'm Narmatha, a Frontend Developer. Love to Build beautiful websites and I love to learn new things and build creative website.<h3>
  
  
- <h2><b>Skills<b></h2>
+ <h2><strong>Skills<strong></h2>
  
   <ul>
     <li><img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="20"> HTML, CSS, Tailwind, SCSS </li>
