@@ -1,5 +1,5 @@
 
- <h3><img src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="60" align='right'>Hi, I'm Narmatha, a Frontend Developer . I love to  Explore Nodejs. Love to Build beautiful websites and I love to learn new things and build creative website.<h3>
+ <h3><img src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="60" align='right'>Hi, I'm Narmatha, a Frontend and Backend Developer, Love to Build beautiful websites and I love to learn new things and build creative website.<h3>
  
  
  <h2><strong>Skills<strong></h2>
