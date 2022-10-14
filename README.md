@@ -8,7 +8,7 @@
     <li><img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="22"> HTML, CSS, Tailwind, SCSS </li>
     <li><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="22"> JavaScript </li>
     <li><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="22"> React JS</li>
-    <li>NodeJs</li>
+    <li><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"  width="22"> NodeJs</li>
     <li>React Native</li>
   </ul>  
    
